@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Source+Code+Pro:wght@300&family=Work+Sans:wght@400;700&display=swap');
+
+body {
+    text-align: center;
+    background-color: #fffafa;
+}
+
+h1 {
+    font-family: "Source Code Pro";
+    color: hotpink;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: "Work Sans";
+    font-weight: 700;
+}
+
+h3 {
+    font-family: "Work Sans";
+    font-weight: 400;
+}
+
+table {
+    max-width: 60%;
+    margin: auto;
+    text-align: left;
+    border: 3px solid lightskyblue;
+    font-family: "Work Sans", sans-serif;
+}
+
+th {
+    color: white;
+    background-color: lightpink;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    min-width: 120px;
+}
+
+td {
+    border: 1px solid lightskyblue;
+    padding: 10px 10px;
+}
+
+.properties {
+    font-family: "Source Code Pro", monospace;
+}
